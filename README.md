@@ -1,6 +1,6 @@
 <h6>CRZxl</h6>
 <div style="display: inline_block" align="center">
-  <h1> My Profile </h1>
+  <h1> My Profile: </h1>
 
   <img hight="170em" src="https://cheesits456-readme-stats.vercel.app/api?username=HiagoZucoloto&show_icons=false&theme=github_dark&include_all_commits=true&count_private=false&hide_title=false"/>
   <img height="170em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kabbalistic_Tree_of_Life_%28Sephiroth%29_2.svg/170px-Kabbalistic_Tree_of_Life_%28Sephiroth%29_2.svg.png"/> 
